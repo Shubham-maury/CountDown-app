@@ -1,0 +1,6 @@
+.col { 
+    flex-wrap: wrap;
+}
+.main { 
+    height: 120vh; 
+}
